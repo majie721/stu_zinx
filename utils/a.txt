@@ -1,0 +1,13 @@
+{
+  "Host": "0.0.0.0",
+
+  "TCPPort": 8889,
+
+  "Name": "mj-zinx",
+
+  "Version": "0.4",
+
+  "MaxConn": 1024,
+
+  "MaxPackageSize": 4098
+}
